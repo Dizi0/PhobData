@@ -1,37 +1,53 @@
-# Bouton Z de la manette GameCube
+# D-Pad indépendant pour manette GameCube
 
-## ⚙️ Difficulté : Facile
-⏳ Durée estimée : 10 - 15 minutes
+## ⚙️ Difficulté : Variable
+⏳ Durée estimée : 15 - 45 minutes (selon l'option choisie)
 
 ## Introduction
 
-Le bouton Z de la manette GameCube a évolué au fil du temps, offrant différentes sensations en fonction de la version utilisée. Que vous cherchiez à retrouver le feeling original, à avoir un retour plus ferme ou à améliorer la réactivité de votre manette, plusieurs options existent.
+Ce guide aborde deux modifications possibles du D-Pad de la manette GameCube :
 
-Dans ce guide, nous allons détailler les **quatre grands types de boutons Z** et expliquer comment les installer.
+1. **Le D-Pad indépendant** : Une modification simple qui consiste à remplacer le D-Pad d'origine par un modèle imprimé en 3D, disponible dans ce dépôt.
+2. **Remplacement de la membrane par des boutons cliquables** : Une modification plus avancée nécessitant des compétences en soudure pour installer des switches tactiles (KSC221J LFS) à la place de la membrane caoutchouc.
 
-## Les différents types de bouton Z
+## 1️⃣ Le D-Pad indépendant
 
-### 1. **Bouton Z Noir (Original)**
-- C'est le bouton Z standard présent sur toutes les manettes GameCube officielles.
-- Sensation **molle et douce**, offrant un retour assez souple.
-- Idéal pour ceux qui veulent conserver **l’expérience originale** de la manette.
+### Présentation
+L'idée derrière cette modification est de rendre chaque direction du D-Pad totalement indépendante pour une meilleure précision et réactivité. Contrairement au D-Pad d'origine, où toutes les directions sont reliées sous une seule membrane, ce système permet des entrées plus nettes et fiables.
 
-### 2. **Bouton Z Blanc (Wii Classic Controller)**
-- Extrait des **manettes Wii Classic Controller**.
-- Il offre un clic plus **ferme et précis**, sans être trop rigide.
-- Apprécié par les joueurs recherchant un **léger upgrade** sans trop modifier la sensation d’origine.
+### Installation
+Cette modification est **facile** et ne nécessite **aucune soudure**. Le fichier imprimé en 3D est compatible **à la fois avec les membranes d'origine et avec les boutons cliquables**, offrant une flexibilité selon votre préférence. Il suffit de :
+1. **Retirer le D-Pad d'origine** de la manette.
+2. **Imprimer un nouveau D-Pad en 3D** (les fichiers sont disponibles dans ce dépôt, dans le même dossier que ce README).
+3. **Remplacer l’ancien D-Pad par la version imprimée** dans la couleur de votre choix.
 
-### 3. **Bouton Z B3F-3120 (Tiers)**
-- Switch mécanique tiers offrant un **clic très ferme**.
-- Comparable aux **boutons LB et RB des manettes Xbox**.
-- Convient aux joueurs qui veulent un retour **très net** et une meilleure réactivité.
+### Avantages
+✅ Installation simple et rapide.
+✅ Aucun outil spécialisé requis.
+✅ Meilleure réactivité et indépendance des directions.
 
-### 4. **BibbEZ (Switch souris - Impression 3D requise)**
-- Utilise un **switch de souris** pour un clic rapide et réactif.
-- Nécessite une **imprimante 3D** pour fabriquer un support adapté.
-- Installation détaillée dans le guide officiel : [BibbEZ Guide](https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Makers/BibbEZ/BibbEZ_Guide.md)
-- Parfait pour ceux qui veulent un **feeling ultra réactif** et une manette entièrement optimisée.
+## 2️⃣ Remplacement de la membrane par des boutons cliquables
+
+### Présentation
+Il est possible d'aller plus loin en retirant totalement la membrane en caoutchouc et en installant **des boutons cliquables** (KSC221J LFS). Cette modification apporte un feedback mécanique similaire aux boutons de souris, mais elle demande plus de précision et de patience.
+
+### Installation
+Cette modification est **plus avancée** et nécessite **de la soudure**. Voici les étapes :
+1. **Retirer la membrane d'origine** du D-Pad.
+2. **Préparer les switches KSC221J LFS** en les positionnant sur la carte mère.
+3. **Souder les switches** :
+    - Les points de soudure **les plus à l’extérieur** sont faciles à atteindre.
+    - Les points de soudure **à l’intérieur** sont plus complexes et demandent une certaine expérience.
+    - **Utiliser du flux** pour faciliter la soudure et éviter les ponts de connexion.
+
+### Avantages
+✅ Feedback mécanique net et précis.
+✅ Réduction des erreurs d’input accidentelles.
+✅ Amélioration idéale pour les speedrunners et jeux nécessitant un D-Pad réactif.
 
 ## Conclusion
 
-Le choix du bouton Z dépend entièrement de vos préférences et de votre style de jeu. Que vous souhaitiez garder la sensation d'origine ou obtenir un retour plus ferme et réactif, il existe une option adaptée à chaque joueur. Avec un temps d’installation relativement court, cette modification est une des plus accessibles pour améliorer votre manette GameCube.
+Selon votre niveau de compétence et vos préférences, vous pouvez choisir entre une solution **simple et efficace** (D-Pad imprimé en 3D) ou une option **plus avancée et performante** (switches cliquables). Quel que soit votre choix, ces modifications amélioreront la précision et la réactivité du D-Pad de votre manette GameCube.
+
+Si vous souhaitez explorer d'autres améliorations, n'hésitez pas à consulter nos guides sur les **gâchettes cliquables**, les **switches ABXY** et les **capteurs à effet Hall** pour une personnalisation optimale de votre manette GameCube !
+

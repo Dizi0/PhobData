@@ -9,7 +9,7 @@ Les gâchettes de la manette GameCube ont une course relativement longue, ce qui
 
 Ce guide présente **trois principales options** pour modifier vos gâchettes en fonction de vos besoins :
 
-## 1️⃣ Gâchettes raccourcies avec des **Short Trigger Plugs**
+## 1️⃣ Gâchettes raccourcies avec des **[Short Trigger Plugs](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20SHORT%20Trigger%20Plugs%20v7.STL)**
 
 🔗 [Short Trigger Plugs STL](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20SHORT%20Trigger%20Plugs%20v7.STL)
 
@@ -25,7 +25,7 @@ Cette modification permet de **réduire légèrement la distance** que la gâche
 ✅ Réduction de la course sans altérer le fonctionnement global.  
 ✅ Compatible avec toutes les gâchettes GameCube.
 
-## 2️⃣ Gâchettes raccourcies avec des **Long Trigger Plugs**
+## 2️⃣ Gâchettes raccourcies avec des **[Long Trigger Plugs](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20LONG%20Trigger%20Plugs%20v7.STL)**
 
 🔗 [Long Trigger Plugs STL](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20LONG%20Trigger%20Plugs%20v7.STL)
 
@@ -63,9 +63,9 @@ Cette modification va encore plus loin en utilisant des **triggers plugs plus lo
 ## Conclusion
 
 En fonction de votre besoin et de votre style de jeu, vous pouvez choisir parmi ces trois modifications :
-- **Short Trigger Plugs** : Réduction légère de la course, facile à installer.
-- **Long Trigger Plugs** : Suppression totale de la course, idéale pour les inputs instantanés (⚠️ désactive le Light Shield).
-- **Triggers Plugs pour switches de souris** : Solution la plus réactive, mais nécessitant un calibrage et du matériel supplémentaire.
+- **[Short Trigger Plugs](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20SHORT%20Trigger%20Plugs%20v7.STL)** : Réduction légère de la course, facile à installer.
+- **[Long Trigger Plugs](https://github.com/Dizi0/PhobData/blob/main/Gachettes/EXTRA%20LONG%20Trigger%20Plugs%20v1.stl)** : Suppression totale de la course, idéale pour les inputs instantanés (⚠️ désactive le Light Shield).
+- **[Triggers Plugs pour switches de souris](https://github.com/Dizi0/PhobData/blob/main/Gachettes/EXTRA%20LONG%20Trigger%20Plugs%20v1.stl)** : Solution la plus réactive, mais nécessitant un calibrage et du matériel supplémentaire (Verifiez que vous ayez bien des supports "[Star Paddles](https://github.com/PhobGCC/PhobGCCv2-HW/releases/tag/v2.0.5)").
 
 Si vous souhaitez explorer d'autres améliorations, consultez nos guides sur les **switches ABXY**, le **D-Pad indépendant** et les **capteurs à effet Hall** pour une personnalisation optimale de votre manette GameCube !
 

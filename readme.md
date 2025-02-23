@@ -1,5 +1,5 @@
 # PHOBs & Mods – Documentation
-
+##### [**! LISEZ LA DOCUMENTATION OFFICIELLE !**](https://github.com/PhobGCC/PhobGCC-doc/tree/main)
 ## Table des matières
 
 1. [Introduction](#introduction)

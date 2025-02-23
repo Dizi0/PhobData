@@ -35,6 +35,3 @@ Dans ce guide, nous allons détailler les **quatre grands types de boutons Z** e
 ## Conclusion
 
 Le choix du bouton Z dépend entièrement de vos préférences et de votre style de jeu. Que vous souhaitiez garder la sensation d'origine ou obtenir un retour plus ferme et réactif, il existe une option adaptée à chaque joueur. Avec un temps d’installation relativement court, cette modification est une des plus accessibles pour améliorer votre manette GameCube.
-
-Si vous souhaitez explorer d'autres modifications, pensez à consulter les guides sur les **gâchettes cliquables**, les **switches ABXY** et les **capteurs à effet Hall** pour une expérience de jeu encore plus personnalisée !
-

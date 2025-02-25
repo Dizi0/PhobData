@@ -41,6 +41,7 @@ Si vous utilisez une **manette PHOB**, certaines modifications nécessitent un a
 - [🔗 **Firmware PHOB**](https://github.com/PhobGCC/PhobGCC-SW/releases)
 - [🔗 **SmashScope par GoomWave (mirroir)**](https://compendium.dol-003.info/smashscope) (A cette date, le lien officiel Goomwave est down, vous trouverez le lien mirroir plus bas sur la page)
 - [🔗 **Dépôt principal avec toutes les ressources**](https://github.com/Dizi0/PhobData)
+- [🔗 **TheGCCLibrary - Une source d'information très utile sur les manettes GC**](https://gccontrollerlibrary.com/)
 
 ## 💡 Contributions
 Vous pouvez proposer des améliorations et partager vos configurations directement via des **Issues** ou **Pull Requests** !

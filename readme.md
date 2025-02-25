@@ -38,6 +38,7 @@ Si vous utilisez une **manette PHOB**, certaines modifications nécessitent un a
 
 ## 📚 Ressources supplémentaires
 - [🔗 **Documentation officielle PHOB**](https://github.com/PhobGCC/PhobGCC-doc)
+- [🔗 **Firmware PHOB**](https://github.com/PhobGCC/PhobGCC-SW/releases)
 - [🔗 **SmashScope par GoomWave (mirroir)**](https://compendium.dol-003.info/smashscope) (A cette date, le lien officiel Goomwave est down, vous trouverez le lien mirroir plus bas sur la page)
 - [🔗 **Dépôt principal avec toutes les ressources**](https://github.com/Dizi0/PhobData)
 

@@ -1,7 +1,7 @@
 # Modifications des gâchettes pour manette GameCube
 
 ## ⚙️ Difficulté : Facile à Moyenne
-⏳ Durée estimée : 5 - 20 minutes (selon l'option choisie)
+⏳ Durée estimée : 5 - 30 minutes (selon l'option choisie)
 
 ## Introduction
 
@@ -9,45 +9,39 @@ Les gâchettes de la manette GameCube ont une course relativement longue, ce qui
 
 Ce guide présente **trois principales options** pour modifier vos gâchettes en fonction de vos besoins :
 
-> **⚠️ Remarque importante :** En fonction du comportement de gâchette souhaité, il est possible de **configurer sa PHOB** (notamment sur le mode 6) afin de garantir que la réponse des gâchettes soit conforme aux attentes. Référez-vous à la **documentation officielle de la PHOB** pour les détails de configuration : [Guide de calibration PHOB](https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob_Calibration_Guide_Latest.md#analog-trigger-modes-ab--lr).
+> **⚠️ Remarque importante :** En fonction du comportement de gâchette souhaité, il est possible de **configurer sa PHOB** (notamment sur le mode 6) afin de garantir que la réponse des gâchettes soit conforme aux attentes. Référez-vous à la **documentation officielle de la PHOB** pour les détails de configuration : [Guide de calibration PHOB](https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob_Calibration_Guide_v0.24.md#analog-trigger-modes).
 
 ---
-## 1️⃣ Gâchettes raccourcies avec des **Short Trigger Plugs**
-
-🔗 [Short Trigger Plugs STL](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20SHORT%20Trigger%20Plugs%20v7.STL)
-
-### Présentation
-Cette modification permet de **réduire légèrement la distance** que la gâchette doit parcourir avant d’atteindre le clic final. Elle offre un bon équilibre entre réactivité accrue et conservation des fonctionnalités d'origine.
-
-### Installation
-1. **Démonter la manette** et accéder aux gâchettes.
-2. **Insérer les Short Trigger Plugs** imprimés en 3D.
-3. **Tester et ajuster** si nécessaire.
-4. **Remonter la manette** et vérifier en jeu.
-
-✅ Réduction de la course sans altérer le fonctionnement global.  
-✅ Compatible avec toutes les gâchettes GameCube.
+## 📌 Navigation rapide
+- [1️⃣ Gâchettes raccourcies avec Trigger Plugs](#1️⃣-gâchettes-raccourcies-avec-trigger-plugs)
+- [2️⃣ Gâchettes optimisées pour switches de souris](#2️⃣-gâchettes-optimisées-pour-switches-de-souris)
+- [⚙️ Configuration avancée avec PHOB](#configuration-avancée-avec-phob)
+- [📚 Ressources supplémentaires](#ressources-supplémentaires)
 
 ---
-## 2️⃣ Gâchettes raccourcies avec des **Long Trigger Plugs**
+## 1️⃣ Gâchettes raccourcies avec **Trigger Plugs**
 
+🔗 [Short Trigger Plugs STL](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20SHORT%20Trigger%20Plugs%20v7.STL)  
 🔗 [Long Trigger Plugs STL](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20LONG%20Trigger%20Plugs%20v7.STL)
 
 ### Présentation
-Cette option **élimine complètement la distance** avant d’atteindre le clic, rendant la gâchette instantanée. Toutefois, cela **désactive le Light Shield sur Melee**, ce qui peut être un inconvénient selon votre utilisation.
+Ces modifications permettent de **réduire ou supprimer la course** des gâchettes avant d’atteindre le clic final.
+- **Short Trigger Plugs** : Réduction légère de la course tout en conservant le Light Shield.
+- **Long Trigger Plugs** : Suppression totale de la course, offrant une réactivité maximale.
+
+> **⚠️ Remarque :** Les **Long Trigger Plugs** ne sont **pas recommandés pour les manettes non PHOB**. Pour une meilleure compatibilité, il est recommandé de **passer la PHOB en mode 6 via le Debug Mode**.
 
 ### Installation
-1. **Démonter la manette** et retirer les gâchettes.
-2. **Insérer les Long Trigger Plugs** pour bloquer toute distance avant le clic.
-3. **Ajuster via le Debug Mode Phob** si nécessaire.
-4. **Remonter la manette** et tester en jeu.
+1. **Démonter la manette** et accéder aux gâchettes.
+2. **Insérer les Trigger Plugs** imprimés en 3D.
+3. **Tester et ajuster** si nécessaire.
+4. **Remonter la manette** et vérifier en jeu.
 
-✅ Réactivité maximale pour les inputs instantanés.  
-⚠️ **Désactive le Light Shield sur Melee**.  
-⚠️ Peut nécessiter un réglage spécifique via **Debug Mode Phob**.
+✅ Réduction ou suppression de la course.  
+✅ Compatible avec les gâchettes GameCube (⚠️ sauf Long Trigger sans PHOB).
 
 ---
-## 3️⃣ Gâchettes optimisées pour **switches de souris**
+## 2️⃣ Gâchettes optimisées pour **switches de souris**
 
 🔗 **Nécessite l'achat de** [StarPaddle](https://github.com/PhobGCC/PhobGCCv2-HW/releases/tag/v2.0.5)
 
@@ -58,8 +52,8 @@ En plus des **triggers plugs allongés**, cette option remplace complètement le
 
 ### Installation (ordre optimisé)
 1. **Se procurer les pièces nécessaires** :
-    - [Imprimez les fichiers 3D](https://github.com/adorablesoft/gcc-triggermodbrackets/tree/main/Mouseclick) : mcbracketleftv3spring, mcbracketrightv3spring, SlimGuardLeft et SlimGuardRight.
-    - Acheter les **switches de souris** et le **StarPaddle**.
+   - [Imprimez les fichiers 3D](https://github.com/adorablesoft/gcc-triggermodbrackets/tree/main/Mouseclick) : mcbracketleftv3spring, mcbracketrightv3spring, SlimGuardLeft et SlimGuardRight.
+   - Acheter les **switches de souris** et le **StarPaddle**.
 2. **Démonter la manette** et retirer les gâchettes d’origine.
 3. **Installer les triggers plugs adaptés** et fixer les supports imprimés en 3D.
 4. **Configurer le Debug Mode Phob** pour un calibrage précis.
@@ -71,11 +65,10 @@ En plus des **triggers plugs allongés**, cette option remplace complètement le
 ⚠️ **Nécessite un calibrage précis via Debug Mode Phob**.
 
 ---
-## Conclusion
-
-En fonction de votre besoin et de votre style de jeu, vous pouvez choisir parmi ces trois modifications :
-- **[Short Trigger Plugs](https://github.com/FIRESCustom/GCC_Trigger_Plugs/blob/master/FIRES%20SHORT%20Trigger%20Plugs%20v7.STL)** : Réduction légère de la course, facile à installer.
-- **[Long Trigger Plugs](https://github.com/Dizi0/PhobData/blob/main/Gachettes/EXTRA%20LONG%20Trigger%20Plugs%20v1.stl)** : Suppression totale de la course, idéale pour les inputs instantanés (⚠️ désactive le Light Shield).
-- **[Triggers Plugs pour switches de souris](https://github.com/Dizi0/PhobData/blob/main/Gachettes/EXTRA%20LONG%20Trigger%20Plugs%20v1.stl)** : Solution la plus réactive, mais **difficile à mettre en place**, nécessitant du matériel supplémentaire (Vérifiez que vous ayez bien des supports **[Star Paddles](https://github.com/PhobGCC/PhobGCCv2-HW/releases/tag/v2.0.5)**).
+## 📚 Ressources supplémentaires
+- [🔗 Documentation PHOB](https://github.com/PhobGCC/PhobGCC-doc)
+- [🔗 STL et autres fichiers de modification](https://github.com/Dizi0/PhobData)
+- [🔗 Guide complet de calibration](https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob_Calibration_Guide_v0.24.md#analog-trigger-modes)
 
 Si vous souhaitez explorer d'autres améliorations, consultez nos guides sur les **switches ABXY**, le **D-Pad indépendant** et les **capteurs à effet Hall** pour une personnalisation optimale de votre manette GameCube !
+

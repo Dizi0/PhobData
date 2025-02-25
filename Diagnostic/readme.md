@@ -28,8 +28,27 @@ Il offre une visualisation précise des mouvements des sticks analogiques, ce qu
 
 > **Note :** Nous nous tournerons plutôt vers l'outil **Snapback** pour **Smash Ultimate**.
 
+## Comprendre le Snapback Viewer
+Dans le **Snapback Viewer**, plusieurs informations sont affichées :
+
+- Une courbe allant de **+128 à -128**, qui représente l'amplitude "théorique" du stick. Bien qu'encodée jusqu'à 256, cette valeur est avant tout **informatrice**.
+- Deux **lignes vertes** situées à **+23 et -23**. Ces lignes marquent le **seuil de détection du snapback**. Un input est enregistré uniquement si ces valeurs sont dépassées.
+- Les courbes affichées en **ROUGE** correspondent à l'axe **X (horizontal)**, tandis que celles en **BLEU** correspondent à l'axe **Y (vertical)**.
+
+Voici un exemple visuel :  
+![Exemple Snapback Viewer](https://raw.githubusercontent.com/Dizi0/PhobData/refs/heads/main/Diagnostic/imgs/smashscope.png)
+
+Voici a quoi ressemble du Snapback
+![Exemple Snapback Viewer](https://raw.githubusercontent.com/Dizi0/PhobData/refs/heads/main/Diagnostic/imgs/snapback.png)
+### Détection du Snapback
+Le **snapback** est caractérisé par un mouvement où le stick passe :
+1. **D'une position d'input**
+2. **À une position neutre**
+3. **Puis de nouveau à une position d'input**, alors que le stick est **relâché**
+
+> **Un snapback est considéré comme présent UNIQUEMENT si les valeurs dépassent les lignes vertes.**
+
+Avec la **PHOB**, il est possible d'atténuer ce problème **sans démonter la manette**, grâce à une **combinaison de touches simple** permettant d'ajuster dynamiquement la réponse du stick.
+
 ## Vidéo Explicative
 Une vidéo détaillant l'utilisation de SmashScope est disponible ici : [Vidéo explicative](https://www.youtube.com/watch?v=YR8d3tp5KLU).
-
-
-

@@ -38,7 +38,7 @@ Dans le **Snapback Viewer**, plusieurs informations sont affichées :
 Voici un exemple visuel :  
 ![Exemple Snapback Viewer](https://raw.githubusercontent.com/Dizi0/PhobData/refs/heads/main/Diagnostic/imgs/smashscope.png)
 
-Voici a quoi ressemble du Snapback
+Voici à quoi ressemble du Snapback
 ![Exemple Snapback Viewer](https://raw.githubusercontent.com/Dizi0/PhobData/refs/heads/main/Diagnostic/imgs/snapback.png)
 ### Détection du Snapback
 Le **snapback** est caractérisé par un mouvement où le stick passe :

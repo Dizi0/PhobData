@@ -21,8 +21,11 @@ Ce dépôt est donc un **guide communautaire**, évolutif et contributif, permet
 - [🔗 **D-Pad indépendant**](https://github.com/Dizi0/PhobData/tree/main/Dpad)  
   → Modifications sur mesure pour un Dpad indépendant, plus précis et cliquable.
 
-- [🔗 **Firmwares et réglages PHOB**](https://github.com/Dizi0/PhobData/tree/main/Firmware)  
-  → Contient les derniers firmwares et configurations PHOB pour une calibration optimale.
+- [🔗 **Firmwares PHOB**](https://github.com/PhobGCC/PhobGCC-SW/releases)  
+  → Contient les derniers firmwares.
+
+- [🔗 **Réglages PHOB**](https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob_Calibration_Guide_Latest.md)  
+  → Contient les configurations PHOB pour une calibration optimale.
 
 - [🔗 **Exemples et configurations avancées**](https://github.com/Dizi0/PhobData/tree/main/Examples)  
   → Réglages recommandés et configurations spécifiques pour différents usages.
